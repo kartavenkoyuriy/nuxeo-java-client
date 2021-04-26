@@ -101,7 +101,7 @@
     <compiler.version>3.3</compiler.version>
     <guava.version>18.0</guava.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <commons-io.version>2.4</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <apache.commons.version>3.3.2</apache.commons.version>
   </properties>
 
